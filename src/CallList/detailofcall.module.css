@@ -1,0 +1,15 @@
+.call_detail{
+    max-width: 30%;
+    margin: 0 auto;
+    
+}
+.call_detail table td{
+    padding: 10px 15px 10px 0;
+}
+.call_detail form textarea{
+    width: 100%;
+    padding: 15px;
+}
+.call_detail form button{
+    width: 100%;
+}
